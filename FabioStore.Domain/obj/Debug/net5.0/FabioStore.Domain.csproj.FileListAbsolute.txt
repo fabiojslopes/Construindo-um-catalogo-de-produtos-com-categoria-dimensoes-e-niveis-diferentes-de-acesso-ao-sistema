@@ -1,0 +1,12 @@
+D:\Projects\Dio\Projetos\criando-um-catalogo-de-produtos-usando-programacao-orientata-ao-objeto\FabioStore\FabioStore.Domain\bin\Debug\net5.0\FabioStore.Domain.deps.json
+D:\Projects\Dio\Projetos\criando-um-catalogo-de-produtos-usando-programacao-orientata-ao-objeto\FabioStore\FabioStore.Domain\bin\Debug\net5.0\FabioStore.Domain.dll
+D:\Projects\Dio\Projetos\criando-um-catalogo-de-produtos-usando-programacao-orientata-ao-objeto\FabioStore\FabioStore.Domain\bin\Debug\net5.0\ref\FabioStore.Domain.dll
+D:\Projects\Dio\Projetos\criando-um-catalogo-de-produtos-usando-programacao-orientata-ao-objeto\FabioStore\FabioStore.Domain\bin\Debug\net5.0\FabioStore.Domain.pdb
+D:\Projects\Dio\Projetos\criando-um-catalogo-de-produtos-usando-programacao-orientata-ao-objeto\FabioStore\FabioStore.Domain\obj\Debug\net5.0\FabioStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Dio\Projetos\criando-um-catalogo-de-produtos-usando-programacao-orientata-ao-objeto\FabioStore\FabioStore.Domain\obj\Debug\net5.0\FabioStore.Domain.AssemblyInfoInputs.cache
+D:\Projects\Dio\Projetos\criando-um-catalogo-de-produtos-usando-programacao-orientata-ao-objeto\FabioStore\FabioStore.Domain\obj\Debug\net5.0\FabioStore.Domain.AssemblyInfo.cs
+D:\Projects\Dio\Projetos\criando-um-catalogo-de-produtos-usando-programacao-orientata-ao-objeto\FabioStore\FabioStore.Domain\obj\Debug\net5.0\FabioStore.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Dio\Projetos\criando-um-catalogo-de-produtos-usando-programacao-orientata-ao-objeto\FabioStore\FabioStore.Domain\obj\Debug\net5.0\FabioStore.Domain.dll
+D:\Projects\Dio\Projetos\criando-um-catalogo-de-produtos-usando-programacao-orientata-ao-objeto\FabioStore\FabioStore.Domain\obj\Debug\net5.0\ref\FabioStore.Domain.dll
+D:\Projects\Dio\Projetos\criando-um-catalogo-de-produtos-usando-programacao-orientata-ao-objeto\FabioStore\FabioStore.Domain\obj\Debug\net5.0\FabioStore.Domain.pdb
+D:\Projects\Dio\Projetos\criando-um-catalogo-de-produtos-usando-programacao-orientata-ao-objeto\FabioStore\FabioStore.Domain\obj\Debug\net5.0\FabioStore.Domain.csproj.AssemblyReference.cache

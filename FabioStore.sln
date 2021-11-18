@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabioStore.Domain", "FabioStore.Domain\FabioStore.Domain.csproj", "{8C1FE68C-FDC1-441B-B755-8E2E077BF051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabioStore.Application", "FabioStore.Application\FabioStore.Application.csproj", "{977A965A-2256-4CFC-9E5C-1C5E013CF156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C1FE68C-FDC1-441B-B755-8E2E077BF051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C1FE68C-FDC1-441B-B755-8E2E077BF051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C1FE68C-FDC1-441B-B755-8E2E077BF051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C1FE68C-FDC1-441B-B755-8E2E077BF051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{977A965A-2256-4CFC-9E5C-1C5E013CF156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977A965A-2256-4CFC-9E5C-1C5E013CF156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977A965A-2256-4CFC-9E5C-1C5E013CF156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977A965A-2256-4CFC-9E5C-1C5E013CF156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC6C41DA-B54C-4831-A21A-67589215C6FA}
+	EndGlobalSection
+EndGlobal
